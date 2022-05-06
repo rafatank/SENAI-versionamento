@@ -1,0 +1,5 @@
+Projeto desenvolvido para estudo de versionamento em TI.
+
+por: Rafael Tank
+
+05/05/22 - inicio e criação do projeto Versionamento, Utilização do GIT e GITHUB
